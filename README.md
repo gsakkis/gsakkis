@@ -1,8 +1,6 @@
 ### About
 
-- Software engineer with 20+ years of experience building large-scale backends, data pipelines, and distributed systems.
-- I specialize in Python, from high-performance microservices and REST APIs, to data engineering workflows, to AI/ML integrations, to everything in between.
-- I care deeply about code quality and have a track record of  establishing best practices and mentoring teams.
+Software craftsman with 20+ years of experience, specializing in large-scale backends, data pipelines, and AI/ML systems. I care deeply about code quality and have a track record of establishing best practices and mentoring teams.
 
 ### Selected Tech Skills
 - **Python Ecosystem**: Asyncio, Type Annotations, Pydantic, Pytest
