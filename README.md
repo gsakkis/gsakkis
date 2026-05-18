@@ -10,7 +10,10 @@ Software craftsman with 20+ years of experience, specializing in large-scale bac
 - **Machine Learning & Scientific Computing**: NumPy, PyTorch, TensorFlow, Scikit-learn
 - **DevOps & Infrastructure**: Docker, Docker Compose, GitHub Actions, Ansible, Bash
 
-### Current Status
+<details>
+<summary>
+<h3>Current Status</h3>
+</summary>
 
 Somewhere between career hiatus, funemployment and contemplating early(-ish) retirement. May consider getting back in action for interesting, meaningful opportunities that don't revolve around coding agents. Potential exception: initiatives that treat agentic coding as a liability to be contained, trying to address issues including but not limited to:
 
@@ -23,3 +26,4 @@ Somewhere between career hiatus, funemployment and contemplating early(-ish) ret
 - **Test Integrity**: ensuring that "tests pass" remains a strong signal of confidence rather than security theater played by agents adding dummy mocks or rewriting failing tests to match broken behavior.
 
 - **Engineering Culture & Developer Experience**: tracking the cost of top-down AI adoption mandates for the people doing the work, because that's nobody's official problem yet.
+</details>
