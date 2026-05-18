@@ -3,7 +3,7 @@
 Software craftsman with 20+ years of experience, specializing in large-scale backends, data pipelines, and AI/ML systems. I care deeply about code quality and have a track record of establishing best practices and mentoring teams.
 
 ### Selected Tech Skills
-- **Python Ecosystem**: Asyncio, Type Annotations, Pydantic, Pytest
+- **Python Ecosystem**: Type Annotations, Asyncio, Pydantic, Pytest
 - **Web & API Frameworks**: FastAPI, Litestar, Django, Flask, SQLAlchemy
 - **Databases & Storage**: MySQL, PostgreSQL, SQLite, MongoDB, Redis, Elasticsearch
 - **Data Engineering**: Pandas, Dask, Spark, Airflow, Prefect
@@ -25,5 +25,5 @@ Somewhere between career hiatus, funemployment and contemplating early(-ish) ret
 
 - **Test Integrity**: ensuring that "tests pass" remains a strong signal of confidence rather than security theater played by agents adding dummy mocks or rewriting failing tests to match broken behavior.
 
-- **Engineering Culture & Developer Experience**: tracking the cost of top-down AI adoption mandates for the people doing the work, because that's nobody's official problem yet.
+- **Engineering Culture & Developer Experience**: tracking the human cost of top-down AI adoption mandates for the people doing the work, because that's nobody's official problem yet.
 </details>
