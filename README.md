@@ -10,20 +10,4 @@ Software craftsman with 20+ years of experience, specializing in large-scale bac
 - **Machine Learning & Scientific Computing**: NumPy, PyTorch, TensorFlow, Scikit-learn
 - **DevOps & Infrastructure**: Docker, Docker Compose, GitHub Actions, Ansible, Bash
 
-<details>
-<summary>
-<h3>Current Status</h3>
-</summary>
-
-Somewhere between career hiatus, funemployment and contemplating early(-ish) retirement. May consider getting back in action for interesting, meaningful opportunities that don't revolve around coding agents. Potential exception: initiatives that treat agentic coding as a liability to be contained, trying to address issues including but not limited to:
-
-- **Code Quality & Technical Debt**: working on tools and practices that keep AI-generated code honest, based on the radical premise that working software should also be maintainable by humans.
-
-- **Cognitive & Comprehension Debt**: bridging the gap between "the code seems to work" and "nobody beyond perhaps the one who prompted it knows why and how", without reverse-engineering intent from reams of auto-generated slop that was outdated by the next commit.
-
-- **Review Infrastructure**: designing workflows that preserve genuine human oversight, as opposed to an engineer's reflexive "LGTM" after scrolling over a 4000-line PR for 10 seconds.
-
-- **Test Integrity**: ensuring that "tests pass" remains a strong signal of confidence rather than security theater played by agents adding dummy mocks or rewriting failing tests to match broken behavior.
-
-- **Engineering Culture & Developer Experience**: tracking the human cost of top-down AI adoption mandates for the people doing the work, because that's nobody's official problem yet.
-</details>
+Not interested contributing to projects and companies compromised by agentic AI generated slopware, unless they need humans to undo the damage.
