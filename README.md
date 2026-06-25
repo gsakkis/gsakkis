@@ -10,4 +10,4 @@ Software craftsman with 20+ years of experience, specializing in large-scale bac
 - **Machine Learning & Scientific Computing**: NumPy, PyTorch, TensorFlow, Scikit-learn
 - **DevOps & Infrastructure**: Docker, Docker Compose, GitHub Actions, Ansible, Bash
 
-Not interested in contributing to projects compromised by agentic AI slopware, unless they need humans to undo the damage.
+Not interested in contributing to projects compromised by agentic AI slopware.
